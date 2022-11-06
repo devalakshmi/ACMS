@@ -1,0 +1,55 @@
+.addfund {
+  margin-left: auto;
+  background-color: #6763e3;
+}
+.maincontent {
+  margin: 25px;
+  /* margin-top: 800px; */
+  /* background-color: #F5F7FB; */
+}
+.addfundicon {
+  background-color: #514ddc;
+  border-radius: 50px;
+  margin-left: 40px;
+}
+.lastmonth {
+  margin-left: auto;
+}
+.statistics {
+  display: flex;
+  margin-bottom: inherit;
+  color: #4d4f5c;
+}
+table {
+  width: 100%;
+}
+.profimg {
+  border-radius: 100px;
+  height: 96px;
+  margin-left: 80px;
+}
+.allprofile {
+  border-radius: 100px;
+  height: 56px;
+}
+.imgediticon {
+  background-color: #514ddc;
+  border-radius: 12px;
+  color: white;
+  margin-bottom: -35px;
+  margin-left: -22px;
+}
+.imagealign {
+  /* background-color: aqua; */
+  align-items: center !important;
+}
+
+#svgfile {
+  margin-right: 15px;
+  color: darkgray;
+}
+
+.thumbnail {
+  width: 261px;
+  height: 158px;
+}
